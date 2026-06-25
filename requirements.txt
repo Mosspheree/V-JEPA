@@ -1,0 +1,14 @@
+transformers @ git+https://github.com/huggingface/transformers
+torch
+torchvision
+torchcodec
+pillow
+numpy
+timm
+einops
+tensorboard
+pandas
+matplotlib
+omegaconf
+pyyaml
+scikit-learn
